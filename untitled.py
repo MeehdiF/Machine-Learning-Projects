@@ -1,13 +1,10 @@
  # Step 0: Import The Libraries 
-import matplotlib.pyplot as plt
 import pandas as pd
 from sklearn.preprocessing import PolynomialFeatures
 from sklearn import preprocessing
 import numpy as np
-from mpl_toolkits.mplot3d import Axes3D
 from sklearn import linear_model
 from sklearn.model_selection import train_test_split
-import seaborn as sns
 from sklearn.metrics import r2_score
 
 
